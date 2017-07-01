@@ -19,11 +19,7 @@ Proposito
 
 En el mundo Arduino, las shields son placas que pueden ser conectadas sobre Arduino, extendiendo así sus capacidades. AutoBot, está especialmente diseñado para este propósito, pero adaptado a las necesidades que requiere un robot con ruedas, sensores y actuadores. En su conjunto de características de fácil manejo, para que los estudiantes puedan interiorizarse y comenzar a experimentar con la programación desde el primer momento, se incluye una plataforma de programación en bloques llamada Ardublock, el cual es una herramienta visual que permite la programación por bloques. Los mismos pueden ser arrastrados y enlazados entre ellos, simulando piezas de un rompecabezas, para confeccionar el flujo de acción del programa. Una característica a destacar es que al cargarse el programa generado mediante bloques, se autogenera el código del mismo en el IDE de Arduino.
 
-.. toctree::
-   :maxdepth: 2
-		:license:dd
-		:help:ddd
-   :caption: Contents:
+
 	 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
